@@ -1,0 +1,14 @@
+<h5>https://github.com/diego91964/wildfly-monitor</h5>
+
+<pre class="stretch highlight cpp">
+
+data-input name="thread-count"
+ resource="/core-service=platform-mbean/type=threading" 
+ attribute="thread-count" minutes="1"/>
+
+data-input name="ActiveCount" 
+resource="/subsystem=datasources/xa-data-source={XA-NAME}/statistics=pool" 
+attribute="ActiveCount" seconds="10" alias="ActiveCount"/>
+
+
+</pre>
