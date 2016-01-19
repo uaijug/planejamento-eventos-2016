@@ -1,9 +1,7 @@
-PRODUÇÃO DE APLICAÇÕES JAVA PARA WEB
+Apresentação dos planos de 2016
 ====================================
 
-Neste workshop, veremos como se faz aplicações java pra web e mobile.
-
-Para ver essa apresentação, acesse http://uaijug.github.io/hermes-workshop/
+Apresentação dos planos do UaiJUG realizada em (19-01-2016)
 
 Executando o projeto localmente
 -------------------------------
