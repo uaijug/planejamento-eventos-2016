@@ -1,6 +1,19 @@
 
 sitefunctions =  function () {};
 
+sitefunctions.init = function (nomeEvento, data){
+
+	sitefunctions.load(data[nomeEvento]);
+
+};
+
+sitefunctions.getparam = function get(name){
+   
+   if(name=(new RegExp('[?&]'+encodeURIComponent(name)+'=([^&]*)')).exec(location.search)){
+      return decodeURIComponent(name[1]);
+   }
+
+};
 
 sitefunctions.load = function (json){
 	sitefunctions.carregarDadosEventos(json.site);

@@ -277,7 +277,8 @@
 
     <script type="text/javascript">
     	 $(document).ready(function(e) {
-         sitefunctions.load(jsonObject);
+         	var nomeEvento = sitefunctions.getparam("nome-evento");
+         	sitefunctions.init(nomeEvento,jsonObject);
    		});
     </script>
 </body>

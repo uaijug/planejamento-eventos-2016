@@ -1,118 +1,193 @@
 var jsonObject = {
 
-	"site" :  {
+	"mir" : {
 
-		"nome" : "Mobile, IoT e Realidade Aumentada" ,
-		
-		"data" : "19/03/2016" ,
+		"site" :  {
 
-		"datacontador" : "19 march 2016 09:00:00" ,
-		
-		"descricao" : "Evento direcionado no desenvolvimento de aplicativos Mobile, Internet das coisas e Realidade Aumentada. Teremos palestras com pessoas com grande conhecimento nas áreas.",
+			"nome" : "Mobile, IoT e Realidade Aumentada" ,
 
-		"lat" : -18.916768,
+			"data" : "19/03/2016" ,
 
-		"lng" : -48.258052,
+			"datacontador" : "19 march 2016 09:00:00" ,
 
-		"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+			"descricao" : "Evento direcionado no desenvolvimento de aplicativos Mobile, Internet das coisas e Realidade Aumentada. Teremos palestras com pessoas com grande conhecimento nas áreas.",
 
-		"horarioinicio" : "A partir das 09:00:00",
+			"lat" : -18.916768,
 
+			"lng" : -48.258052,
 
-		"palestrantes" : [
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
 
-		{
-			"nome" : "Diego Alves da Silva" , 
-			"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
-			"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-			"twitter" : "@diego91964"
-
-		} , 
-
-		{
-			"nome" : "Josenaldo Matos" , 
-			"minicurriculo" : "Conversor profissional de cafeína em software",
-			"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
-			"twitter" : "@josenaldomatos"
-		},
-
-		{
-			"nome" : "Rogério Fontes" , 
-			"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
-			"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
-			"twitter" : "@rogeriofontes"
-		} ,
-		{
-			"nome" : "Diego Alves da Silva" , 
-			"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
-			"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-			"twitter" : "@diego91964"
-
-		} , 
-
-		{
-			"nome" : "Josenaldo Matos" , 
-			"minicurriculo" : "Conversor profissional de cafeína em software",
-			"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
-			"twitter" : "@josenaldomatos"
-		},
-
-		{
-			"nome" : "Rogério Fontes" , 
-			"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
-			"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
-			"twitter" : "@rogeriofontes"
-		}
+			"horarioinicio" : "A partir das 09:00:00",
 
 
+			"palestrantes" : [
 
-		] ,
-
-		"palestras" : [
-
-		{
-			"nomePalestra": "Aplicativos Moveis",
-			"descricaoPalestra": "Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney College na Virginia, pesquisou uma das mais obscuras palavras em latim, consectetur, oriunda de uma passagem de Lorem Ipsum, e, procurando por entre citações da palavra na literatura clássica, descobriu a sua indubitável origem. Lorem Ipsum vem das seções 1.10.32 e 1.10.33 do d",
-			"dataPalestra": "19/03/2016",
-			"horaPalestra": "09:00:00"
-		} ,
-
-		{
-			"nomePalestra": "Aplicativos Moveis",
-			"descricaoPalestra": "Existem muitas variações disponíveis de passagens de Lorem Ipsum, mas a maioria sofreu algum tipo de alteração, seja por inserção de passagens com humor, ou palavras aleatórias que não parecem nem um pouco convincentes. Se você pretende usar uma passagem de Lorem Ipsum, precisa ter certeza",
-			"dataPalestra": "19/03/2016",
-			"horaPalestra": "09:00:00"
-		}
-		] ,
-
-		"patrocinadores" : [
 			{
+				"nome" : "Diego Alves da Silva" , 
+				"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@diego91964"
+
+				} , 
+
+				{
+					"nome" : "Josenaldo Matos" , 
+					"minicurriculo" : "Conversor profissional de cafeína em software",
+					"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
+					"twitter" : "@josenaldomatos"
+					},
+
+					{
+						"nome" : "Rogério Fontes" , 
+						"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
+						"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
+						"twitter" : "@rogeriofontes"
+						} ,
+						{
+							"nome" : "Diego Alves da Silva" , 
+							"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
+							"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+							"twitter" : "@diego91964"
+
+							} , 
+
+							{
+								"nome" : "Josenaldo Matos" , 
+								"minicurriculo" : "Conversor profissional de cafeína em software",
+								"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
+								"twitter" : "@josenaldomatos"
+								},
+
+								{
+									"nome" : "Rogério Fontes" , 
+									"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
+									"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
+									"twitter" : "@rogeriofontes"
+								}
+
+
+
+								] ,
+
+								"palestras" : [
+
+								{
+									"nomePalestra": "Aplicativos Moveis",
+									"descricaoPalestra": "Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney College na Virginia, pesquisou uma das mais obscuras palavras em latim, consectetur, oriunda de uma passagem de Lorem Ipsum, e, procurando por entre citações da palavra na literatura clássica, descobriu a sua indubitável origem. Lorem Ipsum vem das seções 1.10.32 e 1.10.33 do d",
+									"dataPalestra": "19/03/2016",
+									"horaPalestra": "09:00:00"
+									} ,
+
+									{
+										"nomePalestra": "Aplicativos Moveis",
+										"descricaoPalestra": "Existem muitas variações disponíveis de passagens de Lorem Ipsum, mas a maioria sofreu algum tipo de alteração, seja por inserção de passagens com humor, ou palavras aleatórias que não parecem nem um pouco convincentes. Se você pretende usar uma passagem de Lorem Ipsum, precisa ter certeza",
+										"dataPalestra": "19/03/2016",
+										"horaPalestra": "09:00:00"
+									}
+									] ,
+
+									"patrocinadores" : [
+									{
+										"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+										"sitePatrocinador" : "http://www.uaijug.com.br",
+										"nomePatrocinador" : "UaiJUG"
+
+										},
+										{
+											"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+											"sitePatrocinador" : "http://www.ufu.br",
+											"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
+										}
+										] ,
+
+										"banners" : [
+										{ "enderecobanner" : "images/slider/bg1.jpg" ,
+										"descricaobanner" : "Mobile" 
+										} ,
+										{ "enderecobanner" : "images/slider/bg2.jpg" ,
+										"descricaobanner" : "Internet das coisas" 
+										},
+										{ "enderecobanner" : "images/slider/bg3.jpg" ,
+										"descricaobanner" : "Realidade Aumentada" 
+									}  
+
+									]
+								}
+	},
+
+	"fed" : {
+
+		"site" :  {
+
+			"nome" : "FrontEnd Day" ,
+
+			"data" : "16/04/2016" ,
+
+			"datacontador" : "16 april 2016 09:00:00" ,
+
+			"descricao" : "A camada de apresentação se tornou tão complexa quanto qualquer outra. Assim, este evento tem o objetivo de apresentar ferramentas e soluções para FrontEnd e portais de conteúdo.",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+			"horarioinicio" : "A partir das 09:00:00",
+
+
+			"palestrantes" : [
+
+				{
+				"nome" : "A definir" , 
+				"minicurriculo" : "A definir",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@uaijug"
+
+				} , 
+			] ,
+
+			"palestras" : [
+
+				{
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "09:00:00"
+				} ,
+			] ,
+
+			"patrocinadores" : [
+				{
 				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
 				"sitePatrocinador" : "http://www.uaijug.com.br",
 				"nomePatrocinador" : "UaiJUG"
 
-			},
-			{
-				"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
-				"sitePatrocinador" : "http://www.ufu.br",
-				"nomePatrocinador" : "Universidade Federal de Uberlândia"
+				},
 
-			}
-		] ,
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
-		"banners" : [
-			{ "enderecobanner" : "images/slider/bg1.jpg" ,
-			  "descricaobanner" : "Mobile" 
-			} ,
-			{ "enderecobanner" : "images/slider/bg2.jpg" ,
-		  	  "descricaobanner" : "Internet das coisas" 
-			},
-			{ "enderecobanner" : "images/slider/bg3.jpg" ,
-		  	  "descricaobanner" : "Realidade Aumentada" 
-			}  
+				}
+			] ,
 
-		]
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "FrontEnd" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Usabilidade" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Portais de Conteúdo" 
+				}  
 
-}
+			]
+								}
+	}
 
 }
