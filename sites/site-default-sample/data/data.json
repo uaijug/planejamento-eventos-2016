@@ -1,16 +1,17 @@
 var jsonObject = {
 
-	"mir" : {
+	
+	"wgit" : {
 
 		"site" :  {
 
-			"nome" : "Mobile, IoT e Realidade Aumentada" ,
+			"nome" : "Workshop Git" ,
 
 			"data" : "19/03/2016" ,
 
 			"datacontador" : "19 march 2016 09:00:00" ,
 
-			"descricao" : "Evento direcionado no desenvolvimento de aplicativos Mobile, Internet das coisas e Realidade Aumentada. Teremos palestras com pessoas com grande conhecimento nas áreas.",
+			"descricao" : "Se torne um hard user em git e github. Técnicas e dicas para aproveitar ao máximo estes recursos..",
 
 			"lat" : -18.916768,
 
@@ -23,100 +24,55 @@ var jsonObject = {
 
 			"palestrantes" : [
 
-			{
-				"nome" : "Diego Alves da Silva" , 
-				"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
+				{
+				"nome" : "A definir" , 
+				"minicurriculo" : "A definir",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-				"twitter" : "@diego91964"
+				"twitter" : "@uaijug"
 
 				} , 
+			] ,
+
+			"palestras" : [
 
 				{
-					"nome" : "Josenaldo Matos" , 
-					"minicurriculo" : "Conversor profissional de cafeína em software",
-					"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
-					"twitter" : "@josenaldomatos"
-					},
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "19/03/2016",
+					"horaPalestra": "09:00:00"
+				} ,
+			] ,
 
-					{
-						"nome" : "Rogério Fontes" , 
-						"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
-						"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
-						"twitter" : "@rogeriofontes"
-						} ,
-						{
-							"nome" : "Diego Alves da Silva" , 
-							"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
-							"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-							"twitter" : "@diego91964"
+			"patrocinadores" : [
+				{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
 
-							} , 
+				},
 
-							{
-								"nome" : "Josenaldo Matos" , 
-								"minicurriculo" : "Conversor profissional de cafeína em software",
-								"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
-								"twitter" : "@josenaldomatos"
-								},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
-								{
-									"nome" : "Rogério Fontes" , 
-									"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
-									"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
-									"twitter" : "@rogeriofontes"
-								}
+				}
+			] ,
 
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "GIT" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "github" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Hard Skills" 
+				}  
 
-
-								] ,
-
-								"palestras" : [
-
-								{
-									"nomePalestra": "Aplicativos Moveis",
-									"descricaoPalestra": "Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney College na Virginia, pesquisou uma das mais obscuras palavras em latim, consectetur, oriunda de uma passagem de Lorem Ipsum, e, procurando por entre citações da palavra na literatura clássica, descobriu a sua indubitável origem. Lorem Ipsum vem das seções 1.10.32 e 1.10.33 do d",
-									"dataPalestra": "19/03/2016",
-									"horaPalestra": "09:00:00"
-									} ,
-
-									{
-										"nomePalestra": "Aplicativos Moveis",
-										"descricaoPalestra": "Existem muitas variações disponíveis de passagens de Lorem Ipsum, mas a maioria sofreu algum tipo de alteração, seja por inserção de passagens com humor, ou palavras aleatórias que não parecem nem um pouco convincentes. Se você pretende usar uma passagem de Lorem Ipsum, precisa ter certeza",
-										"dataPalestra": "19/03/2016",
-										"horaPalestra": "09:00:00"
-									}
-									] ,
-
-									"patrocinadores" : [
-									{
-										"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
-										"sitePatrocinador" : "http://www.uaijug.com.br",
-										"nomePatrocinador" : "UaiJUG"
-
-										},
-										{
-											"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
-											"sitePatrocinador" : "http://www.ufu.br",
-											"nomePatrocinador" : "Universidade Federal de Uberlândia"
-
-										}
-										] ,
-
-										"banners" : [
-										{ "enderecobanner" : "images/slider/bg1.jpg" ,
-										"descricaobanner" : "Mobile" 
-										} ,
-										{ "enderecobanner" : "images/slider/bg2.jpg" ,
-										"descricaobanner" : "Internet das coisas" 
-										},
-										{ "enderecobanner" : "images/slider/bg3.jpg" ,
-										"descricaobanner" : "Realidade Aumentada" 
-									}  
-
-									]
+			]
 								}
 	},
-
 	"fed" : {
 
 		"site" :  {
@@ -188,6 +144,387 @@ var jsonObject = {
 
 			]
 								}
-	}
+	},
 
+	"wmf" : {
+
+		"site" :  {
+
+			"nome" : "Workshop Mercado Financeiro" ,
+
+			"data" : "14/05/2016" ,
+
+			"datacontador" : "14 may 2016 09:00:00" ,
+
+			"descricao" : "Seu dinheiro está na poupança e você acha que isto é um bom investimento? Então venha assistir este workshop e aprenda a investir em renda fixa e variável, como tesouro direto, letras de crédito, ações, mini-contratos e opções.",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+			"horarioinicio" : "A partir das 09:00:00",
+
+
+			"palestrantes" : [
+
+				{
+				"nome" : "A definir" , 
+				"minicurriculo" : "A definir",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@uaijug"
+
+				} , 
+			] ,
+
+			"palestras" : [
+
+				{
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "14/05/2016",
+					"horaPalestra": "09:00:00"
+				} ,
+			] ,
+
+			"patrocinadores" : [
+				{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
+
+				},
+
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
+				}
+			] ,
+
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Ações" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Tesouro Direto" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Õpções" 
+				}  
+
+			]
+								}
+	},
+
+	"mir" : {
+
+		"site" :  {
+
+			"nome" : "Mobile, IoT e Realidade Aumentada" ,
+
+			"data" : "25/06/2016" ,
+
+			"datacontador" : "25 june 2016 09:00:00" ,
+
+			"descricao" : "Evento direcionado no desenvolvimento de aplicativos Mobile, Internet das coisas e Realidade Aumentada. Teremos palestras com pessoas com grande conhecimento nas áreas.",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+			"horarioinicio" : "A partir das 09:00:00",
+
+
+			"palestrantes" : [
+
+			{
+				"nome" : "Diego Alves da Silva" , 
+				"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@diego91964"
+
+			} , 
+
+			{
+				"nome" : "Josenaldo Matos" , 
+				"minicurriculo" : "Conversor profissional de cafeína em software",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
+				"twitter" : "@josenaldomatos"
+			},
+
+			{
+				"nome" : "Rogério Fontes" , 
+				"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
+				"twitter" : "@rogeriofontes"
+			} 
+		] ,
+		"palestras" : [
+
+			{
+				"nomePalestra": "Aplicativos Moveis",
+				"descricaoPalestra": "Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney College na Virginia, pesquisou uma das mais obscuras palavras em latim, consectetur, oriunda de uma passagem de Lorem Ipsum, e, procurando por entre citações da palavra na literatura clássica, descobriu a sua indubitável origem. Lorem Ipsum vem das seções 1.10.32 e 1.10.33 do d",
+				"dataPalestra": "25/06/2016",
+				"horaPalestra": "09:00:00"
+			} ,
+			{
+				"nomePalestra": "Aplicativos Moveis",
+				"descricaoPalestra": "Existem muitas variações disponíveis de passagens de Lorem Ipsum, mas a maioria sofreu algum tipo de alteração, seja por inserção de passagens com humor, ou palavras aleatórias que não parecem nem um pouco convincentes. Se você pretende usar uma passagem de Lorem Ipsum, precisa ter certeza",
+				"dataPalestra": "25/06/2016",
+				"horaPalestra": "09:00:00"
+			}
+		] ,
+		"patrocinadores" : [
+			{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
+			},
+			{
+				"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+				"sitePatrocinador" : "http://www.ufu.br",
+				"nomePatrocinador" : "Universidade Federal de Uberlândia"
+			}
+		] ,
+		"banners" : [
+			{ 
+				"enderecobanner" : "images/slider/bg1.jpg" ,
+				"descricaobanner" : "Mobile" 
+			} ,
+			{
+				 "enderecobanner" : "images/slider/bg2.jpg" ,
+				 "descricaobanner" : "Internet das coisas" 
+			},
+			{ 
+				"enderecobanner" : "images/slider/bg3.jpg" ,
+				"descricaobanner" : "Realidade Aumentada" 
+			}  
+
+		]
+								}
+	},
+
+	"wgp" : {
+
+		"site" :  {
+
+			"nome" : "Workshop Gerência de Projetos" ,
+
+			"data" : "06/08/2016" ,
+
+			"datacontador" : "06 august 2016 09:00:00" ,
+
+			"descricao" : "descricao",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+			"horarioinicio" : "A partir das 09:00:00",
+
+
+			"palestrantes" : [
+
+				{
+				"nome" : "A definir" , 
+				"minicurriculo" : "A definir",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@uaijug"
+
+				} , 
+			] ,
+
+			"palestras" : [
+
+				{
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "06/08/2016",
+					"horaPalestra": "09:00:00"
+				} ,
+			] ,
+
+			"patrocinadores" : [
+				{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
+
+				},
+
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
+				}
+			] ,
+
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Ações" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Tesouro Direto" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Õpções" 
+				}  
+
+			]
+		}
+	},
+
+	"dd" : {
+
+		"site" :  {
+
+			"nome" : "Devops Day" ,
+
+			"data" : "08/10/2016" ,
+
+			"datacontador" : "08 october 2016 09:00:00" ,
+
+			"descricao" : "descricao",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+			"horarioinicio" : "A partir das 09:00:00",
+
+
+			"palestrantes" : [
+
+				{
+				"nome" : "A definir" , 
+				"minicurriculo" : "A definir",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@uaijug"
+
+				} , 
+			] ,
+
+			"palestras" : [
+
+				{
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "08/10/2016",
+					"horaPalestra": "09:00:00"
+				} ,
+			] ,
+
+			"patrocinadores" : [
+				{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
+
+				},
+
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
+				}
+			] ,
+
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Ações" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Tesouro Direto" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Õpções" 
+				}  
+
+			]
+		}
+	},
+
+	"pj" : {
+
+		"site" :  {
+
+			"nome" : "Pure Java" ,
+
+			"data" : "05/11/2016 " ,
+
+			"datacontador" : "05 november 2016 09:00:00" ,
+
+			"descricao" : "descricao",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+			"horarioinicio" : "A partir das 09:00:00",
+
+
+			"palestrantes" : [
+
+				{
+				"nome" : "A definir" , 
+				"minicurriculo" : "A definir",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
+				"twitter" : "@uaijug"
+
+				} , 
+			] ,
+
+			"palestras" : [
+
+				{
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "05/11/2016 ",
+					"horaPalestra": "09:00:00"
+				} ,
+			] ,
+
+			"patrocinadores" : [
+				{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
+
+				},
+
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
+				}
+			] ,
+
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Ações" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Tesouro Direto" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Õpções" 
+				}  
+
+			]
+		}
+	}
 }
