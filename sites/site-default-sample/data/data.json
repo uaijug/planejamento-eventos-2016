@@ -126,19 +126,19 @@ var jsonObject = {
 				{
 					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
 					"sitePatrocinador" : "http://www.ufu.br",
-					"nomePatrocinador" : "Universidade Federal de Uberlândia"
+				"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
 				}
 			] ,
 
 			"banners" : [
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/bg7.jpg" ,
 				"descricaobanner" : "FrontEnd" 
 				} ,
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/bg8.jpg" ,
 				"descricaobanner" : "Usabilidade" 
 				},
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/bg9.png" ,
 				"descricaobanner" : "Portais de Conteúdo" 
 				}  
 
