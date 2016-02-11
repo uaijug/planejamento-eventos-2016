@@ -144,7 +144,7 @@ sitefunctions.criarNovoPalestrante = function (palestrante) {
 	var div = '';
 	div += '<div class="col-sm-4">';
 	div += '	<div class="single-event">';
-	div += '			<img class="img-responsive imagemPalestrante" src="'+palestrante.enderecofoto+'" alt="event-image">';
+	div += '			<img class="img-responsive imagemPalestrante " src="'+palestrante.enderecofoto+'" alt="event-image">';
 	div += '		<h3>'+palestrante.nome+'</h3>';
 	div += '		<h3>'+palestrante.twitter+'</h3>';
 	div += '		<h5>'+palestrante.minicurriculo+'</h5>';
