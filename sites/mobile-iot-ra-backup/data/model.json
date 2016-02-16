@@ -1,0 +1,58 @@
+{
+
+	site :  {
+
+		nome : "" ,
+		
+		data : "" ,
+
+		datacontador : "" ,
+		
+		descricao : "",
+
+		enderecomaps : "" ,
+
+		local : "" ,
+
+		horarioinicio : "",
+
+
+		palestrantes : [
+
+			{
+				nome : "" , 
+				minicurriculo : "",
+				enderecofoto : "",
+
+		  	}
+
+		] ,
+
+		palestras : [
+
+				{
+					nome: "",
+					descricao: "",
+					data: "",
+					hora: ""
+				}
+		] ,
+
+		patrocinadores : [
+			{
+				enderecologo : ""
+			}
+		] ,
+
+		banners : [
+			{ endereco : "" ,
+			  descricao : "" 
+			}
+
+		]
+
+
+
+	}
+
+}

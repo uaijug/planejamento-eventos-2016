@@ -1,0 +1,61 @@
+{
+
+	site :  {
+
+		nome : "Mobile, IoT e Realidade Aumentada" ,
+		
+		data : "19/03/2016" ,
+
+		datacontador : "19 march 2016 09:00:00" ,
+		
+		descricao : "Evento direcionado no desenvolvimento de aplicativos Mobile, Internet das coisas e Realidade Aumentada. Teremos palestras com pessoas
+		com grande conhecimento nas áreas.",
+
+		lat: -18.916768,
+
+		lng: -48.258052,
+
+		local : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
+
+		horarioinicio : "A partir das 09:00:00",
+
+
+		palestrantes : [
+
+			{
+				nome : "Diego Alves da Silva" , 
+				minicurriculo : "Mestre em ciência da computação, e viciado em conhecimento",
+				enderecofoto : "https://pbs.twimg.com/profile_images/717358791/OgAAAKFbH9WM6KvURqG47GQRkZT7SBcWCYO7W7tG0yxxqkxrJG3NmLkRWci8FyT6wUKjYmAGt4cgzUDY9gm7Us_JJIoAm1T1UKsJ0MpTgLDiOgD6IYmBqplJm6KM_400x400.jpg",
+
+		  	}
+
+		] ,
+
+		palestras : [
+
+				{
+					nome: "Aplicativos Moveis",
+					descricao: "Construindo aplicativos ",
+					data: "19/03/2016",
+					hora: "09:00:00"
+				}
+		] ,
+
+		patrocinadores : [
+			{
+				enderecologo : ""
+			}
+		] ,
+
+		banners : [
+			{ endereco : "images/slider/bg1.jpg" ,
+			  descricao : "Mobile" 
+			}
+
+		]
+
+
+
+	}
+
+}
