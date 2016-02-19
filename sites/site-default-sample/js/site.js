@@ -27,6 +27,7 @@ sitefunctions.carregarDadosEventos = function (site) {
 	$('#local-evento').html(site.local);
 	$('#horario-evento').html(site.horarioinicio);
 	$('#data-evento').html(site.data);
+	$('#linkInscricoes').attr('href',site.linkInscricoes);
 
 	sitefunctions.criaMapa (site.lat , site.lng);
 

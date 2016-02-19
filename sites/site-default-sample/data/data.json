@@ -21,6 +21,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://www.eventick.com.br/uaijug-workshop-git",
 
 			"palestrantes" : [
 
@@ -63,12 +64,15 @@ var jsonObject = {
 				{ "enderecobanner" : "images/slider/default.svg" ,
 				"descricaobanner" : "GIT" 
 				} ,
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/default2.svg" ,
 				"descricaobanner" : "github" 
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
 				"descricaobanner" : "Hard Skills" 
-				}  
+				},
+				{ "enderecobanner" : "images/slider/default2.svg" ,
+				"descricaobanner" : "UaiJUG" 
+				}    
 
 			]
 								}
@@ -93,6 +97,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://even.tc/uaijug-frontend-day",
 
 			"palestrantes" : [
 
@@ -128,6 +133,12 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.ufu.br",
 				"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/definase.svg",
+					"sitePatrocinador" : "http://www.defina-se.com/",
+					"nomePatrocinador" : "Defina-se"
+
 				}
 			] ,
 
@@ -140,7 +151,10 @@ var jsonObject = {
 				},
 				{ "enderecobanner" : "images/slider/bg9.png" ,
 				"descricaobanner" : "Portais de Conteúdo" 
-				}  
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "UaiJUG" 
+				}   
 
 			]
 								}
@@ -166,6 +180,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://even.tc/uaijug-workshop-mercado-financ",
 
 			"palestrantes" : [
 
@@ -213,6 +228,9 @@ var jsonObject = {
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
 				"descricaobanner" : "Õpções" 
+				} ,
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "UaiJUG" 
 				}  
 
 			]
@@ -239,6 +257,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://even.tc/uaijug-mobile-iot-realidade-au",
 
 			"palestrantes" : [
 
@@ -303,7 +322,10 @@ var jsonObject = {
 			{ 
 				"enderecobanner" : "images/slider/bg3.jpg" ,
 				"descricaobanner" : "Realidade Aumentada" 
-			}  
+			}  ,
+			{ "enderecobanner" : "images/slider/default.svg" ,
+			"descricaobanner" : "UaiJUG" 
+			} 
 
 		]
 								}
@@ -329,6 +351,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://even.tc/uaijug-workshop-gerencia-de-pr",
 
 			"palestrantes" : [
 
@@ -371,7 +394,7 @@ var jsonObject = {
 				{ "enderecobanner" : "images/slider/default.svg" ,
 				"descricaobanner" : "Ações" 
 				} ,
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/default2.svg" ,
 				"descricaobanner" : "Tesouro Direto" 
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
@@ -402,6 +425,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://even.tc/uaijug-devops-day",
 
 			"palestrantes" : [
 
@@ -444,7 +468,7 @@ var jsonObject = {
 				{ "enderecobanner" : "images/slider/default.svg" ,
 				"descricaobanner" : "Ações" 
 				} ,
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/default2.svg" ,
 				"descricaobanner" : "Tesouro Direto" 
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
@@ -475,6 +499,7 @@ var jsonObject = {
 
 			"horarioinicio" : "A partir das 09:00:00",
 
+			"linkInscricoes": "http://even.tc/evento-uaijug-pure-java",
 
 			"palestrantes" : [
 
@@ -511,13 +536,15 @@ var jsonObject = {
 					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
 				}
+				
+
 			] ,
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/default.svg" ,
 				"descricaobanner" : "Ações" 
 				} ,
-				{ "enderecobanner" : "images/slider/default.svg" ,
+				{ "enderecobanner" : "images/slider/default2.svg" ,
 				"descricaobanner" : "Tesouro Direto" 
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
