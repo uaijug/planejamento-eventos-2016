@@ -26,10 +26,10 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "A definir" , 
-				"minicurriculo" : "A definir",
-				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-				"twitter" : "@uaijug"
+				"nome" : "Josenaldo de Oliveira" , 
+				"minicurriculo" : "Conversor profissional de cafeína em software",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
+				"twitter" : "@josenaldomatos"
 
 				} , 
 			] ,
@@ -41,6 +41,13 @@ var jsonObject = {
 					"descricaoPalestra": "Abertura e credenciamento.",
 					"dataPalestra": "19/03/2016",
 					"horaPalestra": "09:00:00"
+				} ,
+
+				{
+					"nomePalestra": "Workshop Git",
+					"descricaoPalestra": "Workshop GIT",
+					"dataPalestra": "19/03/2016",
+					"horaPalestra": "09:30:00"
 				} ,
 			] ,
 
