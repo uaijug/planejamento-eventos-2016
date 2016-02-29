@@ -84,6 +84,95 @@ var jsonObject = {
 			]
 								}
 	},
+
+	"wawsone" : {
+
+		"site" :  {
+
+			"nome" : "Workshop: Entrega Contínua na a AWS" ,
+
+			"data" : "22/03/2016 e 24/03/2016" ,
+
+			"datacontador" : "22 march 2016 18:30:00" ,
+
+			"descricao" : "Neste workshop você vai automatizar o provisionamento de infraestrutura e configuração de ambientes para entrega contínua de software, reduzindo o tempo de entrega de valor para o usuário e acelerando seu processo de desenvolvimento. Falaremos sobre os princípios e ferramentas de engenharia de software, das ferramentas de automação e serviços da Amazon Web Services envolvidos na entrega contínua.",
+
+			"lat" : -18.916768,
+
+			"lng" : -48.258052,
+
+			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5R C e D" ,
+
+			"horarioinicio" : "A partir das 18:30:00",
+
+			"linkInscricoes": "http://even.tc/2iy9kuyaixjpqgzz",
+
+			"palestrantes" : [
+
+				{
+				"nome" : "Julio Faerman" , 
+				"minicurriculo" : "Julio é responsável pelo relacionamento da Amazon Web Services com os desenvolvedores latino americanos, explorando com eles a computação em nuvem e trazendo de volta as experiências do caminho. Antes disso, trabalhou na Red Hat, na Borland e em grandes instituições de governo e de telecom. Além da AWS, é um dos líderes do UAI Java User Group, professor da UNITRI, editor do InfoQ e fundador de uma startup para inovação em e-learning, a Craftware.",
+				"enderecofoto" : "http://pub.jfaerman.com.br/pics/selfie.jpg",
+				"twitter" : "@jmfaerman"
+
+				} , 
+			] ,
+
+			"palestras" : [
+
+				{
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "Abertura e credenciamento.",
+					"dataPalestra": "22/03/2016",
+					"horaPalestra": "18:30:00"
+				} ,
+
+				{
+					"nomePalestra": "Publicando um Website Estático",
+					"descricaoPalestra": "Nesta parte será apresentado como criar um site estático e publicá-lo na AWS, primeiro manualmente, para depois automatizar todo o processo. Também será abordada a criação de uma conta, princípios de segurança, armazenamento com Amazon S3 e automação com as ferramentas de linha de comando.",
+					"dataPalestra": "22/03/2016",
+					"horaPalestra": "19:00:00"
+				} ,
+				{
+					"nomePalestra": "Entregando uma aplicação com servidores",
+					"descricaoPalestra": "Nesta parte o foco é na entrega de uma aplicação, desde a criação de servidores web e banco de dados até a automação de toda infraestrutura, inclusive redes e escalabilidade. Trabalharemos com o Amazon EC2, incluindo autoscaling, e bancos de dados com Amazon RDS e automação com CloudFormation.",
+					"dataPalestra": "24/03/2016",
+					"horaPalestra": "19:00:00"
+				} ,
+			] ,
+
+			"patrocinadores" : [
+				{
+				"enderecoLogoPatrocinador" : "images/sponsor/logo_uaijug.jpg",
+				"sitePatrocinador" : "http://www.uaijug.com.br",
+				"nomePatrocinador" : "UaiJUG"
+
+				},
+
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+					"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
+				}
+			] ,
+
+			"banners" : [
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Entrega Contínua na a AWS" 
+				} ,
+				{ "enderecobanner" : "images/slider/default2.svg" ,
+				"descricaobanner" : "Entrega Contínua na a AWS" 
+				},
+				{ "enderecobanner" : "images/slider/default.svg" ,
+				"descricaobanner" : "Entrega Contínua na a AWS" 
+				}    
+
+			]
+								}
+
+	},
+
 	"fed" : {
 
 		"site" :  {
