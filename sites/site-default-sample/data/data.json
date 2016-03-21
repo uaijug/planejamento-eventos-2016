@@ -64,6 +64,11 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.ufu.br",
 					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
 				}
 			] ,
 
@@ -154,6 +159,11 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.ufu.br",
 					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
 				}
 			] ,
 
@@ -198,22 +208,45 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "A definir" , 
-				"minicurriculo" : "A definir",
+				"nome" : "Bruno Messias" , 
+				"minicurriculo" : "Atualmente trabalha em projetos de impacto social que visam inserir tecnologia nas cooperativas de material reciclável, é fundador e desenvolvedor do Recicla Aqui ( sistema de gerenciamento em nuvem para cooperativas de material reciclável). Trabalha como desenvolvedor desde 2014. Têm experiência principalmente com Javascript, React.js, SPA, AWS, Django e Git.",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-				"twitter" : "@uaijug"
+				"twitter" : "Não Possui"
 
 				} , 
+
+				{
+				"nome" : "Lourenço Rizzotto" , 
+				"minicurriculo" : "Front-end developer na Zup IT Innovation, trabalho com desenvolvimento web desde 2005 e sou apaixonado por javascript e ruby.",
+				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/hphotos-xla1/v/t1.0-9/1661983_10152632284691916_4660408463643908424_n.jpg?oh=f123e6e07b03ecde0a3e2e3d2a45d8a7&oe=576151A0",
+				"twitter" : "lourenco"
+
+				} ,
+
+				{
+				"nome" : "Josenaldo de Oliveira" , 
+				"minicurriculo" : "Conversor profissional de cafeína em software",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
+				"twitter" : "@josenaldomatos"
+
+				} 
 			] ,
 
 			"palestras" : [
 
 				{
-					"nomePalestra": "Abertura",
-					"descricaoPalestra": "Abertura e credenciamento.",
+					"nomePalestra": "React.Js na prática",
+					"descricaoPalestra": "Objetivo com esta palestra fornecer uma breve introdução sobre o React.Js e Flux. O formato da palestra será uma mistura entre exposição de conteúdo e livecoding. O livecoding culminará no final em uma pequena extensão para o google chrome cujo o código ficará disponível em um repositório público no github. Apresentarei alguns conceitos interessantes como preservação de estado de componentes preservando estados. O que permite edição de código em tempo real.",
 					"dataPalestra": "16/04/2016",
-					"horaPalestra": "09:00:00"
+					"horaPalestra": "A definir"
 				} ,
+
+				{
+					"nomePalestra": "Desenvolvendo com o Webpack",
+					"descricaoPalestra": "Webpack é ideal para desenvolvedores que procuram uma ferramenta para dividir o código do projeto em múltiplos arquivos para serem carregados sob demanda. Ele também possui loaders que facilitam a utilização de transpiladores (como o babel) e plugins para minificar o código e os assets. Tudo isso sem precisar de muitas configurações.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "A definir"
+				}
 			] ,
 
 			"patrocinadores" : [
@@ -235,6 +268,11 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.defina-se.com/",
 					"nomePatrocinador" : "Defina-se"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
 				}
 			] ,
 
@@ -327,7 +365,12 @@ var jsonObject = {
 				"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
 				"sitePatrocinador" : "http://www.ufu.br",
 				"nomePatrocinador" : "Universidade Federal de Uberlândia"
-			}
+			},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
+				}
 		] ,
 		"banners" : [
 			{ 
@@ -406,6 +449,11 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.ufu.br",
 					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
 				}
 			] ,
 
@@ -480,6 +528,11 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.ufu.br",
 					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
 				}
 			] ,
 
@@ -554,6 +607,11 @@ var jsonObject = {
 					"sitePatrocinador" : "http://www.ufu.br",
 					"nomePatrocinador" : "Universidade Federal de Uberlândia"
 
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
+					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
+					"nomePatrocinador" : "SEBRAE"
 				}
 				
 
