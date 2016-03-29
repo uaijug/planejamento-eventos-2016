@@ -1,18 +1,9 @@
-jQuery(function($) {'use strict',
-	
-	//Countdown js
-	 /**$("#countdown").countdown({
-			date: "19 march 2016 09:00:00",
-			format: "on"
-		},
-		
-		function() {
-			// callback function
-		});*//
+jQuery(function($) {
 	
 
 	
 	//Scroll Menu
+
 
 	function menuToggle()
 	{

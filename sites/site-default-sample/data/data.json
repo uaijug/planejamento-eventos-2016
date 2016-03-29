@@ -208,12 +208,27 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "Bruno Messias" , 
-				"minicurriculo" : "Atualmente trabalha em projetos de impacto social que visam inserir tecnologia nas cooperativas de material reciclável, é fundador e desenvolvedor do Recicla Aqui ( sistema de gerenciamento em nuvem para cooperativas de material reciclável). Trabalha como desenvolvedor desde 2014. Têm experiência principalmente com Javascript, React.js, SPA, AWS, Django e Git.",
-				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-				"twitter" : "Não Possui"
+				"nome" : "Accácio Jasson Franklin" , 
+				"minicurriculo" : "Graduado em Sistemas de Informação pela Universidade Vale do Rio Doce.  Líder de Desenvolvimento da Apiki há 3 anos, empresa especializada 100% em desenvolvimento WordPress, responsável direto por projetos de empresas como iMasters, VTEX, Wizard, UOL, Mitsubishi e Saraiva.",
+				"enderecofoto" : "https://avatars3.githubusercontent.com/u/3626002?v=3&s=460",
+				"twitter" : "KassynFrank"
 
 				} , 
+				{
+				"nome" : "Alberto Dumont Alves Oliveira" , 
+				"minicurriculo" : "É mestrando no Programa de Pós-graduação em Sistemas de Informação da Universidade de São Paulo (USP), Analista de Tecnologia da Informação na Universidade Federal de Uberlândia (UFU) e Professor na Faculdade Pitágoras de Uberlândia. É especialista em Design Instrucional, especialista em Docência no Ensino Superior e bacharel em Sistemas de Informação. Atuou na Secretaria de Estado de Educação de Minas Gerais com a implantação de projetos de inclusão digital e também em empresas privadas de desenvolvimento de softwares. Tem experiência e interesse de pesquisa em análise de sistemas, processos de negócio, engenharia de software, interoperabilidade, interação humano computador, educação a distância, governo eletrônico e softwares livres.",
+				"enderecofoto" : "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11234968_423935527808099_9105308330075608896_n.jpg?oh=1ac186115fcef98e0230d2651d5c3dcf&oe=5796578F",
+				"twitter" : "AlbertoDumont"
+
+				},
+
+				{
+				"nome" : "Josenaldo de Oliveira" , 
+				"minicurriculo" : "Conversor profissional de cafeína em software",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
+				"twitter" : "@josenaldomatos"
+
+				} ,
 
 				{
 				"nome" : "Lourenço Rizzotto" , 
@@ -223,11 +238,12 @@ var jsonObject = {
 
 				} ,
 
+
 				{
-				"nome" : "Josenaldo de Oliveira" , 
-				"minicurriculo" : "Conversor profissional de cafeína em software",
-				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
-				"twitter" : "@josenaldomatos"
+				"nome" : "Wander Fernando Costa" , 
+				"minicurriculo" : "Arquiteto e desenvolvedor com mais de 13 anos de experiência na área de desenvolvendo de software, tendo como principal tecnologia o Java/JEE. Atualmente trabalha na área de Digital Marketing como especialista Adobe Experience Manager.",
+				"enderecofoto" : "https://pbs.twimg.com/media/CdcqHnuWAAAwwL8.jpg",
+				"twitter" : "@wfercosta"
 
 				} 
 			] ,
@@ -235,15 +251,36 @@ var jsonObject = {
 			"palestras" : [
 
 				{
-					"nomePalestra": "React.Js na prática",
-					"descricaoPalestra": "Objetivo com esta palestra fornecer uma breve introdução sobre o React.Js e Flux. O formato da palestra será uma mistura entre exposição de conteúdo e livecoding. O livecoding culminará no final em uma pequena extensão para o google chrome cujo o código ficará disponível em um repositório público no github. Apresentarei alguns conceitos interessantes como preservação de estado de componentes preservando estados. O que permite edição de código em tempo real.",
+					"nomePalestra": "WP REST API (Accácio)",
+					"descricaoPalestra": "Falaremos de um dos novos recursos mais empolgantes da versão 4.4 do WordPress, o REST API. Veja como criar aplicações utilizando requisições HTTP sem se preocupar com as entrelinhas de um tema WordPress.",
 					"dataPalestra": "16/04/2016",
 					"horaPalestra": "A definir"
 				} ,
 
 				{
-					"nomePalestra": "Desenvolvendo com o Webpack",
+					"nomePalestra": "Desenvolvendo com o Webpack (Lourenço)",
 					"descricaoPalestra": "Webpack é ideal para desenvolvedores que procuram uma ferramenta para dividir o código do projeto em múltiplos arquivos para serem carregados sob demanda. Ele também possui loaders que facilitam a utilização de transpiladores (como o babel) e plugins para minificar o código e os assets. Tudo isso sem precisar de muitas configurações.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "A definir"
+				},
+
+				{
+					"nomePalestra": "CMS Drupal como estratégia para interfaces web na Administração Pública Federal (Alberto)",
+					"descricaoPalestra": "Nesta palestra vamos abordar o uso do gerenciador de conteúdos Drupal como estratégia para o desenvolvimento de sistemas e interfaces web na Administração Pública Federal. Vamos explorar a Identidade Digital de Governo, um padrão de interfaces para os portais e sites governamentais. Além disso, vamos debater o cenário atual e as legislações vigentes que apresentam assuntos relevantes e que têm relação direta ou indireta com o desenvolvimento de interfaces gov.br. Tudo isso mostrado em cases que estão sendo aplicados na Universidade Federal de Uberlândia.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "A definir"
+				},
+
+				{
+					"nomePalestra": "Introdução ao WCM System (Wander)",
+					"descricaoPalestra": "Atualmente vivemos um momento crescente onde empresas e indivíduos se utilizam da internet para distribuir o conteúdos nos mais diversos formatos e objetivos. Objetivos que podem envolver como estratégia de marketing para prospectar novos clientes, promover indivíduos como experts em um determinado assunto ou simplesmente pelo prazer por compartilhar conhecimento. As ferramentas de WCM System, têm como maior objetivo auxiliar  no gerenciamento deste ecosistema e abstrair complexidades técnicas para os contribuidores de conteúdo Esta palestra tem como objetivo dar uma visão geral sobre o que é o WCM System, suas características e capacidades.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "A definir"
+				},
+
+				{
+					"nomePalestra": "A definir (Josenaldo)",
+					"descricaoPalestra": "A definir",
 					"dataPalestra": "16/04/2016",
 					"horaPalestra": "A definir"
 				}
