@@ -211,16 +211,25 @@ var jsonObject = {
 				"nome" : "Accácio Jasson Franklin" , 
 				"minicurriculo" : "Graduado em Sistemas de Informação pela Universidade Vale do Rio Doce.  Líder de Desenvolvimento da Apiki há 3 anos, empresa especializada 100% em desenvolvimento WordPress, responsável direto por projetos de empresas como iMasters, VTEX, Wizard, UOL, Mitsubishi e Saraiva.",
 				"enderecofoto" : "https://avatars3.githubusercontent.com/u/3626002?v=3&s=460",
-				"twitter" : "KassynFrank"
+				"twitter" : "@KassynFrank"
 
 				} , 
 				{
 				"nome" : "Alberto Dumont Alves Oliveira" , 
 				"minicurriculo" : "É mestrando no Programa de Pós-graduação em Sistemas de Informação da Universidade de São Paulo (USP), Analista de Tecnologia da Informação na Universidade Federal de Uberlândia (UFU) e Professor na Faculdade Pitágoras de Uberlândia. É especialista em Design Instrucional, especialista em Docência no Ensino Superior e bacharel em Sistemas de Informação. Atuou na Secretaria de Estado de Educação de Minas Gerais com a implantação de projetos de inclusão digital e também em empresas privadas de desenvolvimento de softwares. Tem experiência e interesse de pesquisa em análise de sistemas, processos de negócio, engenharia de software, interoperabilidade, interação humano computador, educação a distância, governo eletrônico e softwares livres.",
 				"enderecofoto" : "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11234968_423935527808099_9105308330075608896_n.jpg?oh=1ac186115fcef98e0230d2651d5c3dcf&oe=5796578F",
-				"twitter" : "AlbertoDumont"
+				"twitter" : "@AlbertoDumont"
 
 				},
+
+
+				{
+				"nome" : "Bruno Messias" , 
+				"minicurriculo" : "Atualmente trabalha em projetos de impacto social que visam inserir tecnologia nas cooperativas de material reciclável, é fundador e desenvolvedor do Recicla Aqui ( sistema de gerenciamento em nuvem para cooperativas de material reciclável). Trabalha como desenvolvedor desde 2014. Têm experiência principalmente com Javascript, React.js, SPA, AWS, Django e Git.",
+				"enderecofoto" : "images/speakers/bruno-messias.jpg",
+				"twitter" : "Não Possui"
+
+				} ,
 
 				{
 				"nome" : "Josenaldo de Oliveira" , 
@@ -234,7 +243,7 @@ var jsonObject = {
 				"nome" : "Lourenço Rizzotto" , 
 				"minicurriculo" : "Front-end developer na Zup IT Innovation, trabalho com desenvolvimento web desde 2005 e sou apaixonado por javascript e ruby.",
 				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/hphotos-xla1/v/t1.0-9/1661983_10152632284691916_4660408463643908424_n.jpg?oh=f123e6e07b03ecde0a3e2e3d2a45d8a7&oe=576151A0",
-				"twitter" : "lourenco"
+				"twitter" : "@lourenco"
 
 				} ,
 
@@ -246,6 +255,8 @@ var jsonObject = {
 				"twitter" : "@wfercosta"
 
 				} 
+
+				
 			] ,
 
 			"palestras" : [
@@ -274,6 +285,13 @@ var jsonObject = {
 				{
 					"nomePalestra": "Introdução ao WCM System (Wander)",
 					"descricaoPalestra": "Atualmente vivemos um momento crescente onde empresas e indivíduos se utilizam da internet para distribuir o conteúdos nos mais diversos formatos e objetivos. Objetivos que podem envolver como estratégia de marketing para prospectar novos clientes, promover indivíduos como experts em um determinado assunto ou simplesmente pelo prazer por compartilhar conhecimento. As ferramentas de WCM System, têm como maior objetivo auxiliar  no gerenciamento deste ecosistema e abstrair complexidades técnicas para os contribuidores de conteúdo Esta palestra tem como objetivo dar uma visão geral sobre o que é o WCM System, suas características e capacidades.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "A definir"
+				},
+
+				{
+					"nomePalestra": "Uma introdução ao React e ao Flux (Bruno Messias)",
+					"descricaoPalestra": "Objetivo com esta palestra fornecer uma breve introdução sobre o React.Js e Flux. O formato da palestra será uma mistura entre exposição de conteúdo e livecoding. O livecoding culminará no final em uma pequena extensão para o google chrome cujo o código ficará disponível em um repositório público no github. Apresentarei alguns conceitos interessantes como preservação de estado de componentes preservando estados. O que permite edição de código em tempo real.",
 					"dataPalestra": "16/04/2016",
 					"horaPalestra": "A definir"
 				},
