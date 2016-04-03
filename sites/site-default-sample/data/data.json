@@ -249,7 +249,7 @@ var jsonObject = {
 
 				{
 				"nome" : "Rogério Fontes Tomaz" , 
-				"minicurriculo" : "Apaixonado em maneiras e formas ágeis de criar código fonte. Programando sempre tomando um bom café e escutando um belo e pesado Rock`n Roll. Trabalha a mais de 10 anos com Java e Linux, passando por Android, Python, PHP e agora com o coração no Angular.js e Node.js. Professor Universitário de Redes de Computadores e JAVA e Dispositivos Móveis. JugLeader e co-fundador do UaiJUG (Grupo de Usuários do Triângulo Mineiro) e do Triângulo Hackerspace. Além disso aventurando como empreendedor e Arquiteto de Software do ComdominioDitital, projeto da Digitos.",
+				"minicurriculo" : "Apaixonado em maneiras e formas ágeis de criar código fonte. Programando sempre tomando um bom café e escutando um belo e pesado Rock`n Roll. Trabalha a mais de 10 anos com Java e Linux, passando por Android, Python, PHP e agora com o coração no Angular.js e Node.js. Professor Universitário de Redes de Computadores, JAVA e Dispositivos Móveis. JugLeader e co-fundador do UaiJUG (Grupo de Usuários do Triângulo Mineiro) e do Triângulo Hackerspace. Além disso aventurando como empreendedor e Arquiteto de Software do ComdominioDigital, projeto da Digitos.",
 				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/hphotos-xtp1/v/t1.0-9/12734046_10153439103142029_7627828975311124666_n.jpg?oh=bf882a5c61e20e2f215c792fe8203f82&oe=5773681B",
 				"twitter" : "@rogeriofontes"
 
@@ -306,7 +306,7 @@ var jsonObject = {
 
 				{
 					"nomePalestra": "Ensinando a ser Mau com MEAN Stack (Rogério Fontes",
-					"descricaoPalestra": "Usando uma Steak que você detonará, sem piedade os outros Back-end. Brincadeiras de lado o MEAN Stack é uma boa forma de o desenvolvedor frontend ter um excelente e poderoso e simples conjunto de ferramenta, para tornar o seu projeto completo e funcional. Usando MongoDB, Express, AngularJS e Node.js vamos ver um overview pratico para começa essa stack de ferramentas e sair por ai detonando.",
+					"descricaoPalestra": "Usando uma Steak que você detonará, sem piedade os outros Back-ends. Brincadeiras de lado o MEAN Stack é uma boa forma de o desenvolvedores frontend ter um excelente, poderoso e simples conjunto de ferramentas para tornar o seu projeto completo e funcional. Usando MongoDB, Express, AngularJS e Node.js vamos ver um overview prático para começar a usar essa stack de ferramentas e sair por ai detonando.",
 					"dataPalestra": "16/04/2016",
 					"horaPalestra": "A definir"
 				},
