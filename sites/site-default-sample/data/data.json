@@ -305,8 +305,8 @@ var jsonObject = {
 				},
 
 				{
-					"nomePalestra": "Ensinando a ser Mau com MEAN Stack (Rogério Fontes",
-					"descricaoPalestra": "Usando uma Steak que você detonará, sem piedade os outros Back-ends. Brincadeiras de lado o MEAN Stack é uma boa forma de o desenvolvedores frontend ter um excelente, poderoso e simples conjunto de ferramentas para tornar o seu projeto completo e funcional. Usando MongoDB, Express, AngularJS e Node.js vamos ver um overview prático para começar a usar essa stack de ferramentas e sair por ai detonando.",
+					"nomePalestra": "Ensinando a ser Mau com MEAN Stack (Rogério Fontes)",
+					"descricaoPalestra": "Usando uma Stack que você detonará, sem piedade com os outros Back-ends. Brincadeiras de lado, o MEAN Stack é uma boa forma de o desenvolvedores front-end possuírem um excelente, poderoso e simples conjunto de ferramentas para tornar o seu projeto completo e funcional. Usando MongoDB, Express, AngularJS e Node.js vamos fazer overview prático para começar a utilizar esta stack de ferramentas e sair por ai detonando.",
 					"dataPalestra": "16/04/2016",
 					"horaPalestra": "A definir"
 				},
