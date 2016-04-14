@@ -270,53 +270,59 @@ var jsonObject = {
 			"palestras" : [
 
 				{
-					"nomePalestra": "WP REST API (Accácio)",
-					"descricaoPalestra": "Falaremos de um dos novos recursos mais empolgantes da versão 4.4 do WordPress, o REST API. Veja como criar aplicações utilizando requisições HTTP sem se preocupar com as entrelinhas de um tema WordPress.",
+					"nomePalestra": "Abertura",
+					"descricaoPalestra": "O que é UaiJUG ?",
 					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
-				} ,
-
-				{
-					"nomePalestra": "Desenvolvendo com o Webpack (Lourenço)",
-					"descricaoPalestra": "Webpack é ideal para desenvolvedores que procuram uma ferramenta para dividir o código do projeto em múltiplos arquivos para serem carregados sob demanda. Ele também possui loaders que facilitam a utilização de transpiladores (como o babel) e plugins para minificar o código e os assets. Tudo isso sem precisar de muitas configurações.",
-					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
+					"horaPalestra": "09:00:00	09:30:00"
 				},
 
 				{
-					"nomePalestra": "CMS Drupal como estratégia para interfaces web na Administração Pública Federal (Alberto)",
-					"descricaoPalestra": "Nesta palestra vamos abordar o uso do gerenciador de conteúdos Drupal como estratégia para o desenvolvimento de sistemas e interfaces web na Administração Pública Federal. Vamos explorar a Identidade Digital de Governo, um padrão de interfaces para os portais e sites governamentais. Além disso, vamos debater o cenário atual e as legislações vigentes que apresentam assuntos relevantes e que têm relação direta ou indireta com o desenvolvimento de interfaces gov.br. Tudo isso mostrado em cases que estão sendo aplicados na Universidade Federal de Uberlândia.",
+					"nomePalestra": "Front-end de gente grande com Grunt e Bower (Josenaldo)",
+					"descricaoPalestra": "Você acha que fazer um HTML bem organizado e seu Javascript em um arquivo são suficientes para aplicações de verdade? Venha conhecer as ferramentas mais usadas pelos jedis do frontend e aprenda como automatizar seus projetos!",
 					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
+					"horaPalestra": "09:30:00 - 10:20:00"
 				},
 
 				{
 					"nomePalestra": "Introdução ao WCM System (Wander)",
 					"descricaoPalestra": "Atualmente vivemos um momento crescente onde empresas e indivíduos se utilizam da internet para distribuir o conteúdos nos mais diversos formatos e objetivos. Objetivos que podem envolver como estratégia de marketing para prospectar novos clientes, promover indivíduos como experts em um determinado assunto ou simplesmente pelo prazer por compartilhar conhecimento. As ferramentas de WCM System, têm como maior objetivo auxiliar  no gerenciamento deste ecosistema e abstrair complexidades técnicas para os contribuidores de conteúdo Esta palestra tem como objetivo dar uma visão geral sobre o que é o WCM System, suas características e capacidades.",
 					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
+					"horaPalestra": "10:25:00 - 11:15:00"
 				},
-
 				{
 					"nomePalestra": "Uma introdução ao React e ao Flux (Bruno Messias)",
 					"descricaoPalestra": "Objetivo com esta palestra fornecer uma breve introdução sobre o React.Js e Flux. O formato da palestra será uma mistura entre exposição de conteúdo e livecoding. O livecoding culminará no final em uma pequena extensão para o google chrome cujo o código ficará disponível em um repositório público no github. Apresentarei alguns conceitos interessantes como preservação de estado de componentes preservando estados. O que permite edição de código em tempo real.",
 					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
+					"horaPalestra": "11:20:00 - 12:10:00"
 				},
+				{
+					"nomePalestra": "CMS Drupal como estratégia para interfaces web na Administração Pública Federal (Alberto)",
+					"descricaoPalestra": "Nesta palestra vamos abordar o uso do gerenciador de conteúdos Drupal como estratégia para o desenvolvimento de sistemas e interfaces web na Administração Pública Federal. Vamos explorar a Identidade Digital de Governo, um padrão de interfaces para os portais e sites governamentais. Além disso, vamos debater o cenário atual e as legislações vigentes que apresentam assuntos relevantes e que têm relação direta ou indireta com o desenvolvimento de interfaces gov.br. Tudo isso mostrado em cases que estão sendo aplicados na Universidade Federal de Uberlândia.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "13:30:00 - 14:20:00"
+				},
+
+				{
+					"nomePalestra": "Desenvolvendo com o Webpack (Lourenço)",
+					"descricaoPalestra": "Webpack é ideal para desenvolvedores que procuram uma ferramenta para dividir o código do projeto em múltiplos arquivos para serem carregados sob demanda. Ele também possui loaders que facilitam a utilização de transpiladores (como o babel) e plugins para minificar o código e os assets. Tudo isso sem precisar de muitas configurações.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "14:25:00 - 15:15:00"
+				},
+
+				{
+					"nomePalestra": "WP REST API (Accácio)",
+					"descricaoPalestra": "Falaremos de um dos novos recursos mais empolgantes da versão 4.4 do WordPress, o REST API. Veja como criar aplicações utilizando requisições HTTP sem se preocupar com as entrelinhas de um tema WordPress.",
+					"dataPalestra": "16/04/2016",
+					"horaPalestra": "15:40:00 - 16:30:00"
+				} ,
 
 				{
 					"nomePalestra": "Ensinando a ser Mau com MEAN Stack (Rogério Fontes)",
 					"descricaoPalestra": "Usando uma Stack que você detonará, sem piedade com os outros Back-ends. Brincadeiras de lado, o MEAN Stack é uma boa forma de o desenvolvedores front-end possuírem um excelente, poderoso e simples conjunto de ferramentas para tornar o seu projeto completo e funcional. Usando MongoDB, Express, AngularJS e Node.js vamos fazer overview prático para começar a utilizar esta stack de ferramentas e sair por ai detonando.",
 					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
-				},
-
-				{
-					"nomePalestra": "A definir (Josenaldo)",
-					"descricaoPalestra": "A definir",
-					"dataPalestra": "16/04/2016",
-					"horaPalestra": "A definir"
+					"horaPalestra": "16:35:00	17:25:00"
 				}
+
 			] ,
 
 			"patrocinadores" : [
@@ -328,12 +334,6 @@ var jsonObject = {
 				},
 
 				{
-					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
-					"sitePatrocinador" : "http://www.ufu.br",
-				"nomePatrocinador" : "Universidade Federal de Uberlândia"
-
-				},
-				{
 					"enderecoLogoPatrocinador" : "images/sponsor/definase.svg",
 					"sitePatrocinador" : "http://www.defina-se.com/",
 					"nomePatrocinador" : "Defina-se"
@@ -343,6 +343,17 @@ var jsonObject = {
 					"enderecoLogoPatrocinador" : "images/sponsor/sebrae.jpg",
 					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
 					"nomePatrocinador" : "SEBRAE"
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/apiki.png",
+					"sitePatrocinador" : "https://apiki.com/",
+					"nomePatrocinador" : "APIKI"
+				},
+				{
+					"enderecoLogoPatrocinador" : "images/sponsor/ufu.png",
+					"sitePatrocinador" : "http://www.ufu.br",
+				"nomePatrocinador" : "Universidade Federal de Uberlândia"
+
 				}
 			] ,
 
