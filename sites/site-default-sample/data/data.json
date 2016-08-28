@@ -638,9 +638,9 @@ var jsonObject = {
 
 			"nome" : "Pure Java" ,
 
-			"data" : "05/11/2016 " ,
+			"data" : "19/11/2016 " ,
 
-			"datacontador" : "05 november 2016 09:00:00" ,
+			"datacontador" : "19 november 2016 09:00:00" ,
 
 			"descricao" : "descricao",
 
@@ -670,7 +670,7 @@ var jsonObject = {
 				{
 					"nomePalestra": "Abertura",
 					"descricaoPalestra": "Abertura e credenciamento.",
-					"dataPalestra": "05/11/2016 ",
+					"dataPalestra": "19/11/2016 ",
 					"horaPalestra": "09:00:00"
 				} ,
 			] ,
@@ -700,13 +700,13 @@ var jsonObject = {
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Ações" 
+				"descricaobanner" : "Java" 
 				} ,
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "Tesouro Direto" 
+				"descricaobanner" : "Cloud" 
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Õpções" 
+				"descricaobanner" : "Big Data" 
 				}  
 
 			]

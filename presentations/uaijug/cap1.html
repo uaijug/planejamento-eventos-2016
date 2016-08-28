@@ -33,10 +33,15 @@
 
     <body>
         <div class="reveal">
-            <div class="slides">
-                
+            <div class="slides" id="slides">
                 <section class="include" data-include="slides/cap1/1-capa.html"></section>
-                <section class="include" data-include="slides/cap1/2-apresentacao.html"></section>
+                <section class="include-dir"
+                         path-include = "slides/cap1/"
+                         start-include = "2"
+                         end-include = "5"
+                         sufix = "-apresentacao.html"> </section>
+
+                <!--<section class="include" data-include="slides/cap1/2-apresentacao.html"></section>
                 <section class="include" data-include="slides/cap1/3-apresentacao.html"></section>
                 <section class="include" data-include="slides/cap1/4-apresentacao.html"></section>
                 <section class="include" data-include="slides/cap1/5-apresentacao.html"></section>
@@ -54,8 +59,8 @@
                 <section class="include" data-include="slides/cap1/17-apresentacao.html"></section>
                 <section class="include" data-include="slides/cap1/18-apresentacao.html"></section>
                 <section class="include" data-include="slides/cap1/19-apresentacao.html"></section>
-                <section class="include" data-include="slides/cap1/20-apresentacao.html"></section>
-               
+                <section class="include" data-include="slides/cap1/20-apresentacao.html"></section> -->
+
             </div>
 
         </div>
