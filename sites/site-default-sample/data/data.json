@@ -1,6 +1,6 @@
 var jsonObject = {
 
-	
+
 	"wgit" : {
 
 		"site" :  {
@@ -26,12 +26,12 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "Josenaldo de Oliveira" , 
+				"nome" : "Josenaldo de Oliveira" ,
 				"minicurriculo" : "Conversor profissional de cafeína em software",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
 				"twitter" : "@josenaldomatos"
 
-				} , 
+				} ,
 			] ,
 
 			"palestras" : [
@@ -74,17 +74,17 @@ var jsonObject = {
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "GIT" 
+				"descricaobanner" : "GIT"
 				} ,
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "github" 
+				"descricaobanner" : "github"
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Hard Skills" 
+				"descricaobanner" : "Hard Skills"
 				},
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "UaiJUG" 
-				}    
+				"descricaobanner" : "UaiJUG"
+				}
 
 			]
 								}
@@ -115,12 +115,12 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "Julio Faerman" , 
+				"nome" : "Julio Faerman" ,
 				"minicurriculo" : "Julio é responsável pelo relacionamento da Amazon Web Services com os desenvolvedores latino americanos, explorando com eles a computação em nuvem e trazendo de volta as experiências do caminho. Antes disso, trabalhou na Red Hat, na Borland e em grandes instituições de governo e de telecom. Além da AWS, é um dos líderes do UAI Java User Group, professor da UNITRI, editor do InfoQ e fundador de uma startup para inovação em e-learning, a Craftware.",
 				"enderecofoto" : "http://pub.jfaerman.com.br/pics/selfie.jpg",
 				"twitter" : "@jmfaerman"
 
-				} , 
+				} ,
 			] ,
 
 			"palestras" : [
@@ -169,14 +169,14 @@ var jsonObject = {
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Entrega Contínua na a AWS" 
+				"descricaobanner" : "Entrega Contínua na a AWS"
 				} ,
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "Entrega Contínua na a AWS" 
+				"descricaobanner" : "Entrega Contínua na a AWS"
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Entrega Contínua na a AWS" 
-				}    
+				"descricaobanner" : "Entrega Contínua na a AWS"
+				}
 
 			]
 								}
@@ -208,14 +208,14 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "Accácio Jasson Franklin" , 
+				"nome" : "Accácio Jasson Franklin" ,
 				"minicurriculo" : "Graduado em Sistemas de Informação pela Universidade Vale do Rio Doce.  Líder de Desenvolvimento da Apiki há 3 anos, empresa especializada 100% em desenvolvimento WordPress, responsável direto por projetos de empresas como iMasters, VTEX, Wizard, UOL, Mitsubishi e Saraiva.",
 				"enderecofoto" : "https://avatars3.githubusercontent.com/u/3626002?v=3&s=460",
 				"twitter" : "@KassynFrank"
 
-				} , 
+				} ,
 				{
-				"nome" : "Alberto Dumont Alves Oliveira" , 
+				"nome" : "Alberto Dumont Alves Oliveira" ,
 				"minicurriculo" : "É mestrando no Programa de Pós-graduação em Sistemas de Informação da Universidade de São Paulo (USP), Analista de Tecnologia da Informação na Universidade Federal de Uberlândia (UFU) e Professor na Faculdade Pitágoras de Uberlândia. É especialista em Design Instrucional, especialista em Docência no Ensino Superior e bacharel em Sistemas de Informação. Atuou na Secretaria de Estado de Educação de Minas Gerais com a implantação de projetos de inclusão digital e também em empresas privadas de desenvolvimento de softwares. Tem experiência e interesse de pesquisa em análise de sistemas, processos de negócio, engenharia de software, interoperabilidade, interação humano computador, educação a distância, governo eletrônico e softwares livres.",
 				"enderecofoto" : "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11234968_423935527808099_9105308330075608896_n.jpg?oh=1ac186115fcef98e0230d2651d5c3dcf&oe=5796578F",
 				"twitter" : "@AlbertoDumont"
@@ -224,7 +224,7 @@ var jsonObject = {
 
 
 				{
-				"nome" : "Bruno Messias" , 
+				"nome" : "Bruno Messias" ,
 				"minicurriculo" : "Atualmente trabalha em projetos de impacto social que visam inserir tecnologia nas cooperativas de material reciclável, é fundador e desenvolvedor do Recicla Aqui ( sistema de gerenciamento em nuvem para cooperativas de material reciclável). Trabalha como desenvolvedor desde 2014. Têm experiência principalmente com Javascript, React.js, SPA, AWS, Django e Git.",
 				"enderecofoto" : "images/speakers/bruno-messias.jpg",
 				"twitter" : "Não Possui"
@@ -232,7 +232,7 @@ var jsonObject = {
 				} ,
 
 				{
-				"nome" : "Josenaldo de Oliveira" , 
+				"nome" : "Josenaldo de Oliveira" ,
 				"minicurriculo" : "Conversor profissional de cafeína em software",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
 				"twitter" : "@josenaldomatos"
@@ -240,7 +240,7 @@ var jsonObject = {
 				} ,
 
 				{
-				"nome" : "Lourenço Rizzotto" , 
+				"nome" : "Lourenço Rizzotto" ,
 				"minicurriculo" : "Front-end developer na Zup IT Innovation, trabalho com desenvolvimento web desde 2005 e sou apaixonado por javascript e ruby.",
 				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/hphotos-xla1/v/t1.0-9/1661983_10152632284691916_4660408463643908424_n.jpg?oh=f123e6e07b03ecde0a3e2e3d2a45d8a7&oe=576151A0",
 				"twitter" : "@lourenco"
@@ -248,7 +248,7 @@ var jsonObject = {
 				} ,
 
 				{
-				"nome" : "Rogério Fontes Tomaz" , 
+				"nome" : "Rogério Fontes Tomaz" ,
 				"minicurriculo" : "Apaixonado em maneiras e formas ágeis de criar código fonte. Programando sempre tomando um bom café e escutando um belo e pesado Rock`n Roll. Trabalha a mais de 10 anos com Java e Linux, passando por Android, Python, PHP e agora com o coração no Angular.js e Node.js. Professor Universitário de Redes de Computadores, JAVA e Dispositivos Móveis. JugLeader e co-fundador do UaiJUG (Grupo de Usuários do Triângulo Mineiro) e do Triângulo Hackerspace. Além disso aventurando como empreendedor e Arquiteto de Software do ComdominioDigital, projeto da Digitos.",
 				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/hphotos-xtp1/v/t1.0-9/12734046_10153439103142029_7627828975311124666_n.jpg?oh=bf882a5c61e20e2f215c792fe8203f82&oe=5773681B",
 				"twitter" : "@rogeriofontes"
@@ -257,14 +257,14 @@ var jsonObject = {
 
 
 				{
-				"nome" : "Wander Fernando Costa" , 
+				"nome" : "Wander Fernando Costa" ,
 				"minicurriculo" : "Arquiteto e desenvolvedor com mais de 13 anos de experiência na área de desenvolvendo de software, tendo como principal tecnologia o Java/JEE. Atualmente trabalha na área de Digital Marketing como especialista Adobe Experience Manager.",
 				"enderecofoto" : "https://pbs.twimg.com/media/CdcqHnuWAAAwwL8.jpg",
 				"twitter" : "@wfercosta"
 
-				} 
+				}
 
-				
+
 			] ,
 
 			"palestras" : [
@@ -359,17 +359,17 @@ var jsonObject = {
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/bg7.jpg" ,
-				"descricaobanner" : "FrontEnd" 
+				"descricaobanner" : "FrontEnd"
 				} ,
 				{ "enderecobanner" : "images/slider/bg8.jpg" ,
-				"descricaobanner" : "Usabilidade" 
+				"descricaobanner" : "Usabilidade"
 				},
 				{ "enderecobanner" : "images/slider/bg9.png" ,
-				"descricaobanner" : "Portais de Conteúdo" 
+				"descricaobanner" : "Portais de Conteúdo"
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "UaiJUG" 
-				}   
+				"descricaobanner" : "UaiJUG"
+				}
 
 			]
 								}
@@ -400,26 +400,26 @@ var jsonObject = {
 			"palestrantes" : [
 
 			{
-				"nome" : "Diego Alves da Silva" , 
+				"nome" : "Diego Alves da Silva" ,
 				"minicurriculo" : "Mestre em ciência da computação, e viciado em conhecimento",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
 				"twitter" : "@diego91964"
 
-			} , 
+			} ,
 
 			{
-				"nome" : "Josenaldo Matos" , 
+				"nome" : "Josenaldo Matos" ,
 				"minicurriculo" : "Conversor profissional de cafeína em software",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/378800000536666626/94c9396ad8cbec80707ec52d9eced6c6_400x400.jpeg",
 				"twitter" : "@josenaldomatos"
 			},
 
 			{
-				"nome" : "Rogério Fontes" , 
+				"nome" : "Rogério Fontes" ,
 				"minicurriculo" : "Java Expert na PresSystem, JUG Leader do UaiJUG e bom leitor de livros e estudos.",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/463699841298620417/zugfGFk__400x400.png",
 				"twitter" : "@rogeriofontes"
-			} 
+			}
 		] ,
 		"palestras" : [
 
@@ -454,21 +454,21 @@ var jsonObject = {
 				}
 		] ,
 		"banners" : [
-			{ 
+			{
 				"enderecobanner" : "images/slider/bg1.jpg" ,
-				"descricaobanner" : "Mobile" 
+				"descricaobanner" : "Mobile"
 			} ,
 			{
 				 "enderecobanner" : "images/slider/bg2.jpg" ,
-				 "descricaobanner" : "Internet das coisas" 
+				 "descricaobanner" : "Internet das coisas"
 			},
-			{ 
+			{
 				"enderecobanner" : "images/slider/bg3.jpg" ,
-				"descricaobanner" : "Realidade Aumentada" 
+				"descricaobanner" : "Realidade Aumentada"
 			}  ,
 			{ "enderecobanner" : "images/slider/default.svg" ,
-			"descricaobanner" : "UaiJUG" 
-			} 
+			"descricaobanner" : "UaiJUG"
+			}
 
 		]
 								}
@@ -499,12 +499,12 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "A definir" , 
+				"nome" : "A definir" ,
 				"minicurriculo" : "A definir",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
 				"twitter" : "@uaijug"
 
-				} , 
+				} ,
 			] ,
 
 			"palestras" : [
@@ -540,14 +540,14 @@ var jsonObject = {
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Ações" 
+				"descricaobanner" : "Ações"
 				} ,
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "Tesouro Direto" 
+				"descricaobanner" : "Tesouro Direto"
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Õpções" 
-				}  
+				"descricaobanner" : "Õpções"
+				}
 
 			]
 		}
@@ -578,12 +578,12 @@ var jsonObject = {
 			"palestrantes" : [
 
 				{
-				"nome" : "A definir" , 
+				"nome" : "A definir" ,
 				"minicurriculo" : "A definir",
 				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
 				"twitter" : "@uaijug"
 
-				} , 
+				} ,
 			] ,
 
 			"palestras" : [
@@ -619,14 +619,14 @@ var jsonObject = {
 
 			"banners" : [
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Ações" 
+				"descricaobanner" : "Ações"
 				} ,
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "Tesouro Direto" 
+				"descricaobanner" : "Tesouro Direto"
 				},
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Õpções" 
-				}  
+				"descricaobanner" : "Õpções"
+				}
 
 			]
 		}
@@ -636,13 +636,13 @@ var jsonObject = {
 
 		"site" :  {
 
-			"nome" : "Pure Java" ,
+			"nome" : "UaiJUG Last Party" ,
 
 			"data" : "19/11/2016 " ,
 
 			"datacontador" : "19 november 2016 09:00:00" ,
 
-			"descricao" : "descricao",
+			"descricao" : "Para finalizar o ano, nada melhor do que comemorarmos mais um aniversário com vocês. Como faremos isso? Com um excelente evento, trazendo vários temas relacionados a tecnologia para que você possa dar um upgrade na carreira. Teremos palestras sobre Java, MicroProfile, Realidade Aumentada/Virtual e diversos outros assuntos com palestrantes de impacto na comunidade. Não perca!",
 
 			"lat" : -18.916768,
 
@@ -650,19 +650,27 @@ var jsonObject = {
 
 			"local" : "UFU Campus Santa Mônica - Anfiteatro Bloco 5s" ,
 
-			"horarioinicio" : "A partir das 09:00:00",
+			"horarioinicio" : "A partir das 09:00:00 (Pontualmente)",
 
-			"linkInscricoes": "http://even.tc/evento-uaijug-pure-java",
+			"linkInscricoes": "http://even.tc/evento-uaijug-last-party",
 
 			"palestrantes" : [
 
 				{
-				"nome" : "A definir" , 
-				"minicurriculo" : "A definir",
-				"enderecofoto" : "https://pbs.twimg.com/profile_images/1231811948/dukeLogo_400x400.png",
-				"twitter" : "@uaijug"
+				"nome" : "Otávio Santana" ,
+				"minicurriculo" : "Um Desenvolvedor apaixonado pelo que faz. Praticante da filosofia ágil e do desenvolvimento poliglota na Bahia, com o Linguagil, JUG Leader do JavaBahia, coordenador do SouJava além de auxiliar em diversos JUGs ao redor do mundo. Leva a sério o termo “Make the future Java” presente como membro do Java Expert Group em diversas especificações Java, JSR, nas plataformas SE, ME e EE, além de ser membro do comitê executivo do JCP, inclusive ganhando um outstanding member award e Java Champion pelos seus feitos. Presente nos maiores eventos Java e desenvolvimento de software do mundo. Contribuiu para diversos projetos Open Source sendo também commiter da Apache.",
+				"enderecofoto" : "https://pbs.twimg.com/profile_images/568091683124822016/Qui3IvKX.jpeg",
+				"twitter" : "@otaviojava"
 
-				} , 
+				} ,
+
+				{
+				"nome" : "Danilo Oliveira" ,
+				"minicurriculo" : "",
+				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/v/t1.0-9/10155289_701589009882301_177938076262753434_n.jpg?oh=9c6dd59cbd2f0123983ec2ab2f4149da&oe=5899091C",
+				"twitter" : "@dcamposo"
+
+				}
 			] ,
 
 			"palestras" : [
@@ -671,8 +679,62 @@ var jsonObject = {
 					"nomePalestra": "Abertura",
 					"descricaoPalestra": "Abertura e credenciamento.",
 					"dataPalestra": "19/11/2016 ",
-					"horaPalestra": "09:00:00"
+					"horaPalestra": "09:00:00 - 09:10:00"
 				} ,
+				{
+					"nomePalestra": "Otimizando as arquiteturas empresariais com MicroProfile",
+					"descricaoPalestra": " O termo microsserviço, se tornou muito popular. Assim, diversas ferramentas  e diversos artigos relacionados ao assunto vem surgindo. Eventualmente pode-se desenvolver microsserviços com Java EE, porém os profiles atuais não são a melhor alternativa.  Neste contexto foi lançada uma nova iniciativa no mundo Java o MicroProfile, que na sua versão 1.0 utiliza algumas APIs do Java EE. O Microprofile foi um dos tópicos mais comentados no JavaOne 2016 e como esta em sua fase inicial todos nós podemos participar das discussões e sua evolução.",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "09:10:00 - 10:00:00"
+				},
+				{
+					"nomePalestra": "A confirmar",
+					"descricaoPalestra": "A confirmar",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "10:10:00 - 11:00:00"
+				},
+				{
+					"nomePalestra": "Lidando com NoSQL e Java",
+					"descricaoPalestra": "Volumes de dados e capacidade de processamento como nunca vimos antes: essa é a nossa nova realidade e para tirarmos proveito disso, precisamos também de novas formas de armazenamento de dados. O movimento NoSQL surgiu em 2009 para trazer novas opções de ferramentas e modelos de dados capazes de atender as necessidades de uma nova geração de aplicações. Nesta trilha, iremos discutir diversas ferramentas NoSQL, tendências, as últimas novidades da área e como VOCÊ pode usar essa tecnologia para criar aplicações incríveis",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "11:10:00 - 12:00:00"
+				},
+				{
+					"nomePalestra": "A confirmar",
+					"descricaoPalestra": "A confirmar",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "12:00:00 - 14:00:00"
+				},
+				{
+					"nomePalestra": "A confirmar",
+					"descricaoPalestra": "A confirmar",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "14:00:00 - 14:50:00"
+				},
+				{
+					"nomePalestra": "A confirmar",
+					"descricaoPalestra": "A confirmar",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "15:00:00 - 15:50:00"
+				},
+				{
+					"nomePalestra": "Coffe Break",
+					"descricaoPalestra": "Coffe Break",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "15:50:00 - 16:10:00"
+				},
+				{
+					"nomePalestra": "A confirmar",
+					"descricaoPalestra": "A confirmar",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "16:10:00 - 17:00:00"
+				},
+				{
+					"nomePalestra": "Encerramento",
+					"descricaoPalestra": "O Encerramento do evento contará com atrações, sorteios e uma comemoração do nosso aniversário :D",
+					"dataPalestra": "19/11/2016 ",
+					"horaPalestra": "17:00:00 - 17:30:00"
+				}
 			] ,
 
 			"patrocinadores" : [
@@ -694,20 +756,20 @@ var jsonObject = {
 					"sitePatrocinador" : "http://http://www.sebrae.com.br/",
 					"nomePatrocinador" : "SEBRAE"
 				}
-				
+
 
 			] ,
 
 			"banners" : [
-				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Java" 
-				} ,
 				{ "enderecobanner" : "images/slider/default2.svg" ,
-				"descricaobanner" : "Cloud" 
-				},
+				"descricaobanner" : "Java"
+				} ,
 				{ "enderecobanner" : "images/slider/default.svg" ,
-				"descricaobanner" : "Big Data" 
-				}  
+				"descricaobanner" : "NoSQL"
+				},
+				{ "enderecobanner" : "images/slider/default2.svg" ,
+				"descricaobanner" : "E muito mais..."
+				}
 
 			]
 		}
