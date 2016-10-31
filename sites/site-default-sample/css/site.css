@@ -12,6 +12,8 @@
 }
 
 .imagemPalestrante {
+	width: 110px;
+	height: auto;
 	max-width: 200px;
 	max-height: auto;
 	border-radius: 50%;
@@ -19,4 +21,11 @@
     transition: all 0.3s ease-out 0s;
 }
 
+.div-imagem-palestrante{
+	width: 20%;
+}
+
+.dados-palestrante{
+	clear: left;
+}
 

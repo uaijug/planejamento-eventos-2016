@@ -665,12 +665,30 @@ var jsonObject = {
 				} ,
 
 				{
+				"nome" : "Léo Candido Silva" ,
+				"minicurriculo" : "Apaixonado pelo desenvolvimento, atuante em processos de formação de novos profissionais, como minicursos preparatórios e maratonas de programação para alunos de ensino médio e fundamental. Pós-Graduado pela IFTM (Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro) em Análise e Desenvolvimento de Sistemas Aplicados à Gestão Empresarial, atualmente exercendo a função de analista desenvolvedor junto ao Algar Telecom, atuando nessa função desde 2014, anterior, atuava como analista implantador/desenvolvedor junto a Informa Informática e Consultoria Ltda, atuando nessa função de 2009-2014.",
+				"enderecofoto" : "images/speakers/leocandido.jpg",
+				"twitter" : "<a href ='https://br.linkedin.com/in/léo-candido-silva-48423616'> Linkedin</a>"
+
+				},
+
+				{
+				"nome" : "Julio Faerman" ,
+				"minicurriculo" : "Julio é responsável pelo relacionamento da Amazon Web Services com os desenvolvedores latino americanos, explorando com eles a computação em nuvem e trazendo de volta as experiências do caminho. Antes disso, trabalhou na Red Hat, na Borland e em grandes instituições de governo e de telecom. Além da AWS, é um dos líderes do UAI Java User Group, professor da UNITRI, editor do InfoQ e fundador de uma startup para inovação em e-learning, a Craftware.",
+				"enderecofoto" : "images/speakers/juliofaerman.jpg",
+				"twitter" : "@jmfaerman"
+
+				} ,
+
+				{
 				"nome" : "Danilo Oliveira" ,
 				"minicurriculo" : "",
-				"enderecofoto" : "https://scontent.fudi1-1.fna.fbcdn.net/v/t1.0-9/10155289_701589009882301_177938076262753434_n.jpg?oh=9c6dd59cbd2f0123983ec2ab2f4149da&oe=5899091C",
+				"enderecofoto" : "images/speakers/danilo-oliveira.jpg",
 				"twitter" : "@dcamposo"
 
 				}
+
+				
 			] ,
 
 			"palestras" : [
@@ -682,7 +700,7 @@ var jsonObject = {
 					"horaPalestra": "09:00:00 - 09:10:00"
 				} ,
 				{
-					"nomePalestra": "Otimizando as arquiteturas empresariais com MicroProfile",
+					"nomePalestra": "Otimizando as arquiteturas empresariais com MicroProfile - Otávio Santana",
 					"descricaoPalestra": " O termo microsserviço, se tornou muito popular. Assim, diversas ferramentas  e diversos artigos relacionados ao assunto vem surgindo. Eventualmente pode-se desenvolver microsserviços com Java EE, porém os profiles atuais não são a melhor alternativa.  Neste contexto foi lançada uma nova iniciativa no mundo Java o MicroProfile, que na sua versão 1.0 utiliza algumas APIs do Java EE. O Microprofile foi um dos tópicos mais comentados no JavaOne 2016 e como esta em sua fase inicial todos nós podemos participar das discussões e sua evolução.",
 					"dataPalestra": "19/11/2016 ",
 					"horaPalestra": "09:10:00 - 10:00:00"
@@ -694,20 +712,20 @@ var jsonObject = {
 					"horaPalestra": "10:10:00 - 11:00:00"
 				},
 				{
-					"nomePalestra": "Lidando com NoSQL e Java",
+					"nomePalestra": "Lidando com NoSQL e Java - Otávio Santana",
 					"descricaoPalestra": "Volumes de dados e capacidade de processamento como nunca vimos antes: essa é a nossa nova realidade e para tirarmos proveito disso, precisamos também de novas formas de armazenamento de dados. O movimento NoSQL surgiu em 2009 para trazer novas opções de ferramentas e modelos de dados capazes de atender as necessidades de uma nova geração de aplicações. Nesta trilha, iremos discutir diversas ferramentas NoSQL, tendências, as últimas novidades da área e como VOCÊ pode usar essa tecnologia para criar aplicações incríveis",
 					"dataPalestra": "19/11/2016 ",
 					"horaPalestra": "11:10:00 - 12:00:00"
 				},
 				{
-					"nomePalestra": "A confirmar",
-					"descricaoPalestra": "A confirmar",
+					"nomePalestra": "Almoço e Bate Papo",
+					"descricaoPalestra": "Almoço e Bate Papo",
 					"dataPalestra": "19/11/2016 ",
 					"horaPalestra": "12:00:00 - 14:00:00"
 				},
 				{
-					"nomePalestra": "A confirmar",
-					"descricaoPalestra": "A confirmar",
+					"nomePalestra": "Apresentando Design Thinking - Léo Candido",
+					"descricaoPalestra": "Um simples overview sobre a metodologia de inovação, ilustrando quão simples e poderoso o design thinking pode ser, permitindo que as dúvidas de entendimento dispontem com velocidade criando assim uma maior assertividade no desenvolvimento da inovação.",
 					"dataPalestra": "19/11/2016 ",
 					"horaPalestra": "14:00:00 - 14:50:00"
 				},
