@@ -1537,11 +1537,14 @@ margin-bottom:3em;
 		margin-bottom: 0.55em;
 	}
 	.services-section-grid1-top,.services-section-grid3-top{
-		padding: 10px 15px;
+		padding: 10px 5px;
 		margin-bottom: 10px;
 	}
-	.services-section-grid1-bottom,.services-section-grid3-bottom,.services-section-grid2{
-		padding: 10px 15px;
+	.services-section-grid1-bottom,.services-section-grid3-bottom,.services-section-grid2,.services-section-grid2-bottom{
+		padding: 10px 5px;
+	}
+	.services-section-grid1-bottom-bottom,.services-section-grid3-bottom-bottom,.services-section-grid2-bottom-bottom{
+		padding: 10px 5px;
 	}
 	.services-section-grid1 {
 		padding: 0 10px 0 0;
@@ -1794,12 +1797,23 @@ margin-bottom:3em;
 	.banner-info {
 		width: 68%;
 	}
-	.services-section-grid1-bottom,.services-section-grid3-bottom{
-		width: 49%;
+	.services-section-grid1-bottom-bottom,.services-section-grid3-bottom-bottom,.services-section-grid2-bottom-bottom{
+		width: 100%;
 		float: left;
+		margin-right:2%;
 	}
-	.services-section-grid1-top,.services-section-grid3-top{
-		width: 49%;
+	.services-section-grid1-bottom,.services-section-grid3-bottom,.services-section-grid2-bottom{
+		width: 100%;
+		float: left;
+		margin-right:2%;
+	}
+	.services-section-grid1-middle,.services-section-grid3-middle,.services-section-grid2-middle{
+		width: 100%;
+		float: left;
+		margin-right:2%;
+	}
+	.services-section-grid1-top,.services-section-grid3-top,,.services-section-grid2-top{
+		width: 100%;
 		float: left;
 		margin-right:2%;
 		margin-bottom: 0;
